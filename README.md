@@ -1,0 +1,1 @@
+# taisnes_veidosanas_algoritms
